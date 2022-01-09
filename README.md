@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rocket319
-- 👀 I’m interested in 3D printing, home automation and security, and robotics.
-- 🌱 I’m currently learning python and refreshing my memory in electronis.
+- 👀 I’m interested in 3D printing, home automation and security, and robotics
+- 🌱 I’m currently learning python and refreshing my memory in electronics
 - 💞️ I’m looking to collaborate on beginner learning projects
 - 📫 How to reach me on github
 
